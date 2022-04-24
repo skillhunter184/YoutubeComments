@@ -1,0 +1,2 @@
+# YoutubeComments
+Youtube APIを使ってライブチャットを取得するアプリです
