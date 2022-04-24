@@ -1,5 +1,6 @@
 # YoutubeComments
-Youtube APIを使ってライブチャットを取得するアプリです
+Youtube APIを使ってライブチャットを取得するアプリです  
+アーカイブのチャットは拾えないのでご注意ください。
   
 使用方法  
 １．YoutubeComment.exeを実行する。  
