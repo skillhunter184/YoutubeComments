@@ -104,6 +104,8 @@
             // 
             // textBoxMain
             // 
+            this.textBoxMain.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.textBoxMain.Location = new System.Drawing.Point(18, 270);
             this.textBoxMain.Multiline = true;
             this.textBoxMain.Name = "textBoxMain";
@@ -113,6 +115,9 @@
             // 
             // listBoxComments
             // 
+            this.listBoxComments.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.listBoxComments.FormattingEnabled = true;
             this.listBoxComments.ItemHeight = 15;
             this.listBoxComments.Location = new System.Drawing.Point(520, 18);
